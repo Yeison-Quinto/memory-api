@@ -1,5 +1,7 @@
 # Memory API # 
 
+[![Developed by @santiago-b9826](https://img.shields.io/badge/developed%20by-%40SantiagoBedoya-blue.svg  "Santiago Bedoya")](https://github.com/santiago-b9826)   [![Developed by @linamariaum](https://img.shields.io/badge/developed%20by-%40linamariaum-ff69b4.svg  "Lina María Uribe")](https://github.com/linamariaum)
+
 En este laboratorio ganará algún grado de familiaridad con la asignación de memoria (memory allocation). Para el caso, usted escribirá algunos programas con bugs. Luego, usará algunas herramientas para localizar los bugs que usted ha insertado. De este modo se familiarizará con algunas de estas herramientas para un uso futuro. Estas herramientas son: el debuger (**gdb**) y el memory-bug detector (**valgrind**).
 
 ## Questions ##
