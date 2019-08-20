@@ -4,6 +4,8 @@
 int main()
 {
     int *data = malloc(100 * sizeof(int));
+    int *funny = (data + 50);
+    free(funny); 
+    printf("%d", *(data + 50));
     free(data);
-    printf("%d", *data);
 }
